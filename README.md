@@ -1,3 +1,6 @@
+# Kathy's Notes
+- I didn't know what to do my tribute page on so I decided to pick someone that is important to CS as a whole.
+
 # Build a Tribute Page
 ## Objective: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks. Do not copy this demo project.
 
